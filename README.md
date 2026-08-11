@@ -41,9 +41,9 @@ Based on these interactions, the system recommends relevant users and pages.
 ## text
 social-media-recommendation-system/
 │
-├── codebook_data.json
-├── cleaned_codebook_data.json
-├── main.py
-├── people_you_may_know.py
-├── pages_you_might_like.py
+1. codebook_data.json
+2. cleaned_codebook_data.json
+3. main.py
+4. people_you_may_know.py
+5. pages_you_might_like.py
 └── README.md
